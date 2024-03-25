@@ -1,3 +1,5 @@
+Clone of PrivateGPT for MC purposes
+
 # 🔒 PrivateGPT 📑
 
 [![Tests](https://github.com/imartinez/privateGPT/actions/workflows/tests.yml/badge.svg)](https://github.com/imartinez/privateGPT/actions/workflows/tests.yml?query=branch%3Amain)
